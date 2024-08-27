@@ -3,4 +3,5 @@
 Views in Projects app
 * List all projects 
 * Show project details
+* Something else
 
